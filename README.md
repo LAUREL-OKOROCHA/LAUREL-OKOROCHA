@@ -1,4 +1,5 @@
 <h1>Hi, I'm Laurel <br/><a href="github.com/LAUREL-OKOROCHA/LAUREL-OKOROCHA">Cyber Security/network Security professional</a>, <a href="www.linkedin.com/in/laurel-okorocha">Cybersecurity Professional</a>
+  <h3>ABOUT ME: I work on practical IT support, network fundamentals, and cybersecurity skills, I’m currently expanding my skills through real world simulations and hands on practice. Always learning, always improving, and always open to collaboration.</h3>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
